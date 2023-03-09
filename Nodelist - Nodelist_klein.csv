@@ -1,0 +1,675 @@
+id,name,type,nation,peak
+fcb1,Manuel Neuer,Spieler,NA,J
+fcb2,Dayot Upamecano,Spieler,NA,K
+fcb4,Mathijs De Ligt,Spieler,NA,L
+fcb5,Benjamin Pavard,Spieler,NA,J
+fcb6,Joshua Kimmich,Spieler,NA,L
+fcb7,Serge Gnabry,Spieler,NA,L
+fcb8,Leon Goretzka,Spieler,NA,L
+fcb10,Leroy Sane,Spieler,NA,L
+fcb11,Kingsley Coman,Spieler,NA,L
+fcb13,Eric Maxim Choupo Moting,Spieler,NA,D
+fcb14,Paul Wanner,Spieler,NA,B
+fcb17,Sadio Mane,Spieler,NA,L
+fcb19,Alphonso Davies,Spieler,NA,L
+fcb20,Bouna Sarr,Spieler,NA,D
+fcb21,Lucas Hernandez,Spieler,NA,L
+fcb22,Joao Cancelo,Spieler,NA,L
+fcb23,Daley Blind,Spieler,NA,G
+fcb25,Thomas Mueller,Spieler,NA,L
+fcb26,Sven Ulreich,Spieler,NA,D
+fcb27,Yann Sommer,Spieler,NA,E
+fcb38,Ryan Gravenberch,Spieler,NA,I
+fcb39,Mathys Tel,Spieler,NA,F
+fcb40,Noussair Mazraoui,Spieler,NA,H
+fcb42,Jamal Musiala,Spieler,NA,L
+fcb44,Josip Stanisic,Spieler,NA,D
+fcu1,Frederik Roennow,Spieler,NA,B
+fcu2,Morten Thorsby,Spieler,NA,C
+fcu3,Paul Jaeckel,Spieler,NA,C
+fcu4,Diogo Leite,Spieler,NA,D
+fcu5,Danilho Doekhi,Spieler,NA,B
+fcu7,Levin Oeztunali,Spieler,NA,C
+fcu8,Rani Khedira,Spieler,NA,D
+fcu11,Sven Michel,Spieler,NA,A
+fcu13,Andras Schaefer,Spieler,NA,B
+fcu14,Paul Seguin,Spieler,NA,A
+fcu16,Tim Maciejewski,Spieler,NA,A
+fcu17,Kevin Behrens,Spieler,NA,A
+fcu19,Jannik Haberer,Spieler,NA,D
+fcu23,Niko Giesselmann,Spieler,NA,B
+fcu25,Timo Baumgartl,Spieler,NA,E
+fcu26,Jerome Rousillon,Spieler,NA,F
+fcu27,Sheraldo Becker,Spieler,NA,E
+fcu28,Christopher Trimmel,Spieler,NA,A
+fcu30,Kevin Moehwald,Spieler,NA,B
+fcu31,Robin Knoche,Spieler,NA,E
+fcu32,Milos Pantovic,Spieler,NA,A
+fcu37,Lennart Grill,Spieler,NA,A
+fcu40,Jamie Leweling,Spieler,NA,B
+fcu45,Jordan Siebatcheu,Spieler,NA,D
+fcu18,Josip Juranovic,Spieler,NA,D
+fcu20,Aissa Laidouni,Spieler,NA,B
+rbl1,Peter Gulacsi,Spieler,NA,E
+rbl2,Mohamed Simakan,Spieler,NA,H
+rbl4,Willi Orban,Spieler,NA,F
+rbl7,Dani Olmo,Spieler,NA,J
+rbl8,Amadou Haidara,Spieler,NA,G
+rbl9,Yussuf Poulsen,Spieler,NA,I
+rbl10,Emil Forsberg,Spieler,NA,H
+rbl11,Timo Werner,Spieler,NA,L
+rbl13,Orjan Nyland,Spieler,NA,B
+rbl16,Lukas Klostermann,Spieler,NA,I
+rbl17,Dominik Szoboszlai,Spieler,NA,I
+rbl18,Christopher Nkunku,Spieler,NA,L
+rbl19,Andre Silva,Spieler,NA,J
+rbl21,Janis Blaswich,Spieler,NA,A
+rbl22,David Raum,Spieler,NA,H
+rbl23,Marcel Halstenberg,Spieler,NA,G
+rbl24,Xaver Schlager,Spieler,NA,H
+rbl25,Sanoussy Ba,Spieler,NA,A
+rbl27,Konrad Laimer,Spieler,NA,H
+rbl32,Josko Gvardiol,Spieler,NA,L
+rbl37,Abdou Diallo,Spieler,NA,I
+rbl39,Benjamin Henrichs,Spieler,NA,F
+rbl44,Kevin Kampl,Spieler,NA,G
+bvb1,Gregor Kobel,Spieler,NA,G
+bvb2,Mateu Morey,Spieler,NA,C
+bvb4,Nico Schlotterbeck,Spieler,NA,I
+bvb6,Salih Oezcan,Spieler,NA,F
+bvb7,Giovanni Reyna,Spieler,NA,J
+bvb8,Mahmoud Dahoud,Spieler,NA,F
+bvb9,Sebastien Haller,Spieler,NA,J
+bvb11,Marco Reus,Spieler,NA,J
+bvb13,Raphael Guerreiro,Spieler,NA,I
+bvb14,Nico Schulz,Spieler,NA,G
+bvb15,Mats Hummels,Spieler,NA,K
+bvb17,Marius Wolf,Spieler,NA,D
+bvb18,Youssoufa Moukoko,Spieler,NA,H
+bvb19,Julian Brandt,Spieler,NA,J
+bvb20,Anthony Modeste,Spieler,NA,F
+bvb21,Donyell Malen,Spieler,NA,H
+bvb22,Jude Bellingham,Spieler,NA,L
+bvb23,Emre Can,Spieler,NA,I
+bvb24,Thomas Meunier,Spieler,NA,I
+bvb25,Niklas Suele,Spieler,NA,K
+bvb26,Julian Ryerson,Spieler,NA,C
+bvb27,Karim Adeyemi,Spieler,NA,I
+bvb30,Felix Passlack,Spieler,NA,B
+bvb33,Alexander Meyer,Spieler,NA,A
+bvb35,Marcel Lotka,Spieler,NA,A
+bvb36,Tom Rothe,Spieler,NA,B
+bvb43,Jamie Bynoe Gittens,Spieler,NA,D
+bvb47,Antonios Papadopoulos,Spieler,NA,A
+scf1,Benjamin Uphoff,Spieler,NA,A
+scf3,Philipp Lienhart,Spieler,NA,G
+scf5,Manuel Gulde,Spieler,NA,B
+scf7,Jonathan Schmid,Spieler,NA,C
+scf8,Maximilian Eggestein,Spieler,NA,H
+scf9,Lucas Hoeler,Spieler,NA,C
+scf11,Daniel Kofi Kyereh,Spieler,NA,D
+scf14,Yannik Keitel,Spieler,NA,B
+scf17,Lukas Kuebler,Spieler,NA,B
+scf18,Nils Petersen,Spieler,NA,E
+scf22,Roland Sallai,Spieler,NA,F
+scf23,Robert Wagner,Spieler,NA,A
+scf25,Kiliann Sildillia,Spieler,NA,D
+scf26,Mark Flekken,Spieler,NA,C
+scf27,Nicolas Hoefler,Spieler,NA,B
+scf28,Matthias Ginter,Spieler,NA,I
+scf29,Woo Yeong Jeong,Spieler,NA,C
+scf30,Christian Guenter,Spieler,NA,E
+scf32,Vincenzo Grifo,Spieler,NA,E
+scf33,Noah Weisshaupt,Spieler,NA,B
+scf38,Michael Gregoritsch,Spieler,NA,F
+scf42,Ritsu Doan,Spieler,NA,F
+sge1,Kevin Trapp,Spieler,NA,E
+sge2,Evan N Dicka,Spieler,NA,I
+sge5,Hrvoje Smolcic,Spieler,NA,B
+sge6,Kristijan Jakic,Spieler,NA,D
+sge8,Djibril Sow,Spieler,NA,G
+sge9,Randal Kolo Muani,Spieler,NA,I
+sge11,Faride Alidou,Spieler,NA,A
+sge15,Daichi Kamada,Spieler,NA,H
+sge17,Sebastian Rode,Spieler,NA,D
+sge18,Almamy Toure,Spieler,NA,D
+sge19,Rafael Borre,Spieler,NA,F
+sge20,Makoto Hasebe,Spieler,NA,B
+sge21,Lucas Alario,Spieler,NA,F
+sge22,Timothy Chandler,Spieler,NA,B
+sge24,Aurelio Buta,Spieler,NA,C
+sge25,Christopher Lenz,Spieler,NA,B
+sge26,Junior Dina Ebimbe,Spieler,NA,C
+sge27,Mario Goetze,Spieler,NA,K
+sge28,Marcel Wenig,Spieler,NA,A
+sge29,Jesper Lindstrom,Spieler,NA,H
+sge31,Jens Grahl,Spieler,NA,A
+sge32,Philipp Max,Spieler,NA,F
+sge35,Tuta,Spieler,NA,E
+sge36,Ansgar Knauff,Spieler,NA,D
+sge40,Diant Ramaj,Spieler,NA,A
+wob1,Koen Casteels,Spieler,NA,E
+wob2,Kilian Fischer,Spieler,NA,A
+wob3,Sebastiaan Bornauw,Spieler,NA,E
+wob4,Maxence Lacroix,Spieler,NA,H
+wob5,Micky van de Veen,Spieler,NA,D
+wob6,Paulo Otavio,Spieler,NA,D
+wob7,Luca Waldschmidt,Spieler,NA,G
+wob10,Lukas Nmecha,Spieler,NA,F
+wob12,Pavao Pervan,Spieler,NA,A
+wob16,Jakub Kaminski,Spieler,NA,D
+wob20,Ridle Baku,Spieler,NA,G
+wob22,Felix Nmecha,Spieler,NA,B
+wob23,Jonas Wind,Spieler,NA,E
+wob27,Maximilian Arnold,Spieler,NA,F
+wob29,Joshua Guilavogui,Spieler,NA,E
+wob31,Yannik Gerhardt,Spieler,NA,E
+wob32,Mattias Svanberg,Spieler,NA,E
+wob33,Omar Marmoush,Spieler,NA,C
+wob38,Bartol Franjic,Spieler,NA,C
+wob39,Patrick Wimmer,Spieler,NA,D
+wob40,Kevin Paredes,Spieler,NA,B
+bmg1,Jonas Omlin,Spieler,NA,D
+bmg3,Ko Itakura,Spieler,NA,E
+bmg4,Mamadou Doucoure,Spieler,NA,A
+bmg5,Marvin Friedrich,Spieler,NA,D
+bmg6,Christoph Kramer,Spieler,NA,E
+bmg7,Patrick Herrmann,Spieler,NA,E
+bmg8,Julian Weigl,Spieler,NA,H
+bmg10,Marcus Thuram,Spieler,NA,I
+bmg11,Hannes Wolf,Spieler,NA,E
+bmg13,Lars Stindl,Spieler,NA,F
+bmg14,Alassane Plea,Spieler,NA,I
+bmg17,Manu Kone,Spieler,NA,G
+bmg18,Stefan Lainer,Spieler,NA,F
+bmg19,Nathan Ngoumou,Spieler,NA,C
+bmg20,Luca Netz,Spieler,NA,C
+bmg21,Tobias Sippel,Spieler,NA,B
+bmg23,Jonas Hofmann,Spieler,NA,F
+bmg24,Tony Jantschke,Spieler,NA,D
+bmg25,Ramy Bensebaini,Spieler,NA,G
+bmg29,Joe Scally,Spieler,NA,E
+bmg30,Nico Elvedi,Spieler,NA,I
+bmg32,Florian Neuhaus,Spieler,NA,I
+bmg34,Conor Noss,Spieler,NA,A
+bmg38,Yvandro Borges Sanches,Spieler,NA,A
+bmg41,Jan Olschowsky,Spieler,NA,A
+lev1,Lukas Hradecky,Spieler,NA,E
+lev3,Piero Hincapie,Spieler,NA,G
+lev4,Jonathan Tah,Spieler,NA,I
+lev5,Mitchell Bakker,Spieler,NA,E
+lev6,Odilon Koussounou,Spieler,NA,G
+lev8,Robert Andrich,Spieler,NA,E
+lev9,Sardar Azmoun,Spieler,NA,G
+lev10,Kerem Demirbay,Spieler,NA,I
+lev11,Nadiem Amiri,Spieler,NA,G
+lev12,Edmond Tapsoba,Spieler,NA,I
+lev14,Patrik Schick,Spieler,NA,J
+lev17,Callum Hudson Odoi,Spieler,NA,I
+lev19,Moussa Diaby,Spieler,NA,K
+lev20,Charles Aranguiz,Spieler,NA,E
+lev21,Amine Adli,Spieler,NA,E
+lev22,Daley Sinkgraven,Spieler,NA,D
+lev23,Adam Hlozek,Spieler,NA,F
+lev24,Timothy Fosu Mensah,Spieler,NA,C
+lev25,Exequiel Palacios,Spieler,NA,G
+lev27,Florian Wirtz,Spieler,NA,L
+lev30,Jeremie Frimpong,Spieler,NA,G
+lev32,Ayman Azhil,Spieler,NA,A
+lev38,Karim Bellarabi,Spieler,NA,G
+lev40,Andrey Lunev,Spieler,NA,E
+svw1,Jiri Pavlenka,Spieler,NA,E
+svw3,Anthony Jung,Spieler,NA,A
+svw4,Niklas Stark,Spieler,NA,F
+svw5,Amos Pieper,Spieler,NA,C
+svw6,Jens Stage,Spieler,NA,B
+svw7,Marvin Ducksch,Spieler,NA,B
+svw8,Mitchell Weiser,Spieler,NA,E
+svw10,Leonardo Bittencourt,Spieler,NA,C
+svw11,Niclas Fuellkrug,Spieler,NA,E
+svw13,Milos Veljkovic,Spieler,NA,E
+svw17,Maximilian Philipp,Spieler,NA,F
+svw19,Dikeni Salifou,Spieler,NA,A
+svw20,Romano Schmid,Spieler,NA,B
+svw21,Eren Dinkci,Spieler,NA,A
+svw22,Niklas Schmidt,Spieler,NA,A
+svw26,Lee Buchanan,Spieler,NA,B
+svw27,Felix Agu,Spieler,NA,A
+svw28,Ilia Gruev,Spieler,NA,B
+svw30,Michael Zetterer,Spieler,NA,A
+svw32,Marco Friedl,Spieler,NA,C
+svw34,Jean Manuel Mbom,Spieler,NA,B
+svw36,Christian Gross,Spieler,NA,A
+svw39,Fabio Chiarodia,Spieler,NA,A
+koe1,Timo Horn,Spieler,NA,E
+koe2,Benno Schmitz,Spieler,NA,B
+koe3,Kristian Pedersen,Spieler,NA,B
+koe4,Timo Huebers,Spieler,NA,C
+koe5,Nikola Soldo,Spieler,NA,A
+koe6,Eric Martel,Spieler,NA,B
+koe7,Dejan Ljubicic,Spieler,NA,D
+koe8,Denis Huseinbasic,Spieler,NA,A
+koe9,Sebastian Andersson,Spieler,NA,C
+koe11,Florian Kainz,Spieler,NA,B
+koe13,Marc Uth,Spieler,NA,G
+koe14,Jonas Hector,Spieler,NA,F
+koe15,Luca Kilian,Spieler,NA,B
+koe17,Kingsley Schindler,Spieler,NA,B
+koe19,Dimitrios Limnios,Spieler,NA,B
+koe20,Marvin Schwaebe,Spieler,NA,B
+koe21,Steffen Tigges,Spieler,NA,B
+koe23,Sargis Adamyan,Spieler,NA,B
+koe24,Julian Chabot,Spieler,NA,A
+koe25,Tim Lemperle,Spieler,NA,A
+koe27,Davie Selke,Spieler,NA,F
+koe28,Ellyes Skhiri,Spieler,NA,E
+koe29,Jan Thielmann,Spieler,NA,D
+koe33,Florian Dietz,Spieler,NA,A
+koe37,Linton Mai,Spieler,NA,D
+koe47,Mathias Olesen,Spieler,NA,A
+koe48,Justin Diehl,Spieler,NA,A
+fsv1,Finn Dahmen,Spieler,NA,A
+fsv3,Aaron Martin,Spieler,NA,F
+fsv4,Aymen Barkok,Spieler,NA,B
+fsv5,Maxim Leitsch,Spieler,NA,B
+fsv6,Anton Stach,Spieler,NA,E
+fsv7,Jae Sung Lee,Spieler,NA,B
+fsv8,Leandro Barreiro,Spieler,NA,E
+fsv9,Karim Onisiwo,Spieler,NA,B
+fsv11,Marcus Ingvartsen,Spieler,NA,B
+fsv16,Stefan Bell,Spieler,NA,C
+fsv17,Ludovic Ajourque,Spieler,NA,F
+fsv19,Anthony Caci,Spieler,NA,C
+fsv20,Edmilson Fernandes,Spieler,NA,D
+fsv21,Danny da Costa,Spieler,NA,E
+fsv25,Andreas Hanche Olsen,Spieler,NA,B
+fsv27,Robin Zentner,Spieler,NA,B
+fsv29,Jonathan Burkardt,Spieler,NA,F
+fsv30,Silvan Widmer,Spieler,NA,D
+fsv31,Dominik Kohr,Spieler,NA,D
+fsv36,Marlon Mustapha,Spieler,NA,A
+fsv37,Delano Burgzorg,Spieler,NA,A
+fsv42,Alexander Hack,Spieler,NA,B
+fsv43,Brajan Gruda,Spieler,NA,A
+fsv44,Nelson Weiper,Spieler,NA,A
+tsg1,Oliver Baumann,Spieler,NA,D
+tsg3,Pavel Kaderabek,Spieler,NA,F
+tsg4,Ermin Bicakcic,Spieler,NA,B
+tsg5,Ozan Kabak,Spieler,NA,I
+tsg6,Grischa Proemel,Spieler,NA,C
+tsg7,Jacob Bruun Larsen,Spieler,NA,F
+tsg8,Dennis Geiger,Spieler,NA,E
+tsg9,Ihlas Bebou,Spieler,NA,F
+tsg10,Munas Dabbur,Spieler,NA,E
+tsg11,Angelino,Spieler,NA,I
+tsg13,Angelo Stiller,Spieler,NA,C
+tsg14,Christoph Baumgartner,Spieler,NA,G
+tsg16,Sebastian Rudy,Spieler,NA,E
+tsg17,Thomas Delaney,Spieler,NA,H
+tsg19,Kasper Dolberg,Spieler,NA,G
+tsg20,Finn Ole Becker,Spieler,NA,A
+tsg22,Kevin Vogt,Spieler,NA,F
+tsg23,John Anthony Brooks,Spieler,NA,E
+tsg25,Kevin Akpoguma,Spieler,NA,E
+tsg26,Eduardo Quaresma,Spieler,NA,C
+tsg27,Andrej Kramaric,Spieler,NA,I
+tsg29,Robert Skov,Spieler,NA,E
+tsg34,Stanley Nsoki,Spieler,NA,E
+tsg35,Muhammed Damar,Spieler,NA,A
+tsg39,Tom Bischof,Spieler,NA,A
+tsg40,Umut Tohumcu,Spieler,NA,A
+tsg44,Fisnik Asllani,Spieler,NA,A
+bsc1,Oliver Christensen,Spieler,NA,B
+bsc2,Peter Pekarik,Spieler,NA,B
+bsc3,Augustin Rogel,Spieler,NA,B
+bsc5,Filip Uremovic,Spieler,NA,C
+bsc6,Tolga Cigerci,Spieler,NA,B
+bsc7,Florian Niederlechner,Spieler,NA,D
+bsc8,Suat Serdar,Spieler,NA,G
+bsc10,Jean Paul Boetius,Spieler,NA,C
+bsc14,Dodi Lukebakio,Spieler,NA,G
+bsc16,Jonjoe Kenny,Spieler,NA,E
+bsc17,Maximilian Mittelstaedt,Spieler,NA,E
+bsc18,Wilfried Kanga,Spieler,NA,B
+bsc19,Stefan Jovetic,Spieler,NA,H
+bsc20,Marc Oliver Kempf,Spieler,NA,D
+bsc21,Marvin Plattenhardt,Spieler,NA,F
+bsc23,Marco Richter,Spieler,NA,D
+bsc24,Jessic Ngankam,Spieler,NA,A
+bsc27,Kevin Prince Boateng,Spieler,NA,G
+bsc29,Lucas Tousart,Spieler,NA,G
+bsc31,Marton Dardai,Spieler,NA,C
+bsc34,Ivan Sunjic,Spieler,NA,C
+bsc39,Derry Scherhant,Spieler,NA,A
+bsc40,Chidera Ejuke,Spieler,NA,D
+bsc42,Julian Eitschberger,Spieler,NA,A
+fca1,Rafal Gikiewicz,Spieler,NA,A
+fca2,Robert Gumny,Spieler,NA,B
+fca3,Mads Pedersen,Spieler,NA,B
+fca4,Reece Oxford,Spieler,NA,E
+fca5,Tobias Strobl,Spieler,NA,D
+fca6,Jeffrey Gouweleeuw,Spieler,NA,E
+fca7,Dion Beljo,Spieler,NA,C
+fca8,Renato Veiga,Spieler,NA,A
+fca9,Ermedin Demirovic,Spieler,NA,E
+fca10,Arne Maier,Spieler,NA,G
+fca11,Mergim Berisha,Spieler,NA,D
+fca13,Elvis Rexhbecaj,Spieler,NA,D
+fca14,Julian Baumgartlinger,Spieler,NA,C
+fca16,Ruben Vargas,Spieler,NA,E
+fca17,Noah Sarenren Bazee,Spieler,NA,A
+fca19,Felix Udokhai,Spieler,NA,F
+fca20,Daniel Caligiuri,Spieler,NA,C
+fca22,Iago,Spieler,NA,C
+fca23,Maximilian Bauer,Spieler,NA,B
+fca24,Fredrik Jensen,Spieler,NA,B
+fca27,Arne Engels,Spieler,NA,A
+fca28,Andre Hahn,Spieler,NA,D
+fca30,Niklas Dorsch,Spieler,NA,D
+fca38,David Colina,Spieler,NA,A
+fca39,Benjamin Leneis,Spieler,NA,A
+fca40,Tomas Koubek,Spieler,NA,C
+fca42,Aaron Zehnter,Spieler,NA,A
+fca45,Kelvin Yeboah,Spieler,NA,C
+fca48,Irvin Cardona,Spieler,NA,D
+vfb1,Florian Mueller,Spieler,NA,D
+vfb2,Waldemar Anton,Spieler,NA,E
+vfb3,Wataru Endo,Spieler,NA,D
+vfb4,Josha Vagnoman,Spieler,NA,B
+vfb5,Konstantinos Mavropanos,Spieler,NA,F
+vfb7,Tanguy Coulibaly,Spieler,NA,C
+vfb8,Enzo Millot,Spieler,NA,A
+vfb9,Serhou Guirassy,Spieler,NA,E
+vfb10,Tiago Tomas,Spieler,NA,C
+vfb11,Juan Jose Perea,Spieler,NA,A
+vfb14,Silas Katompa Mvumpa,Spieler,NA,G
+vfb15,Pascal Stenzel,Spieler,NA,C
+vfb16,Atakan Karazor,Spieler,NA,B
+vfb17,Genki Haraguchi,Spieler,NA,B
+vfb20,Luca Pfeiffer,Spieler,NA,B
+vfb21,Hiroki Ito,Spieler,NA,C
+vfb22,Chris Fuehrich,Spieler,NA,B
+vfb23,Dan Axel Zagadou,Spieler,NA,I
+vfb24,Borna Sosa,Spieler,NA,G
+vfb25,Lilian Egloff,Spieler,NA,A
+vfb27,Alou Kuol,Spieler,NA,A
+vfb28,Nikolas Nartey,Spieler,NA,A
+vfb31,Gil Dias,Spieler,NA,B
+vfb33,Fabian Bredlow,Spieler,NA,A
+vfb34,Omer Beyaz,Spieler,NA,A
+vfb36,Laurin Ulrich,Spieler,NA,A
+vfb37,Antonis Aidonis,Spieler,NA,A
+vfb39,Thomas Kastanaras,Spieler,NA,A
+boc1,Manuel Riemann,Spieler,NA,A
+boc2,Cristian Gamboa,Spieler,NA,A
+boc3,Danilo Soares,Spieler,NA,A
+boc4,Erhan Masovic,Spieler,NA,B
+boc5,Jacek Goralski,Spieler,NA,B
+boc6,Patrick Osterhage,Spieler,NA,A
+boc7,Kevin Stoeger,Spieler,NA,C
+boc8,Anthony Losilla,Spieler,NA,A
+boc9,Simon Zoller,Spieler,NA,B
+boc10,Philipp Foerster,Spieler,NA,B
+boc11,Takuma Asano,Spieler,NA,B
+boc16,Konstantinos Stafylidis,Spieler,NA,B
+boc17,Gerrit Holtmann,Spieler,NA,B
+boc18,Jordi Osei Tutu,Spieler,NA,A
+boc20,Ivan Ordets,Spieler,NA,B
+boc21,Michael Esser,Spieler,NA,A
+boc22,Christopher Antwi Adjei,Spieler,NA,A
+boc23,Saidy Janko,Spieler,NA,B
+boc24,Vasilios Lampropoulos,Spieler,NA,A
+boc28,Pierre Kunde,Spieler,NA,D
+boc29,Moritz Broschinski,Spieler,NA,A
+boc30,Dominique Heintz,Spieler,NA,D
+boc31,Keven Schlotterbeck,Spieler,NA,D
+boc33,Philipp Hofmann,Spieler,NA,B
+boc35,Silvere Ganvoula,Spieler,NA,B
+gel1,Ralf Faehrmann,Spieler,NA,E
+gel2,Thomas Ouwejan,Spieler,NA,B
+gel3,Leo Greiml,Spieler,NA,B
+gel4,Maya Yoshida,Spieler,NA,C
+gel5,Sepp van den Berg,Spieler,NA,C
+gel6,Tom Krauß,Spieler,NA,C
+gel8,Danny Latza,Spieler,NA,C
+gel9,Simon Terodde,Spieler,NA,B
+gel10,Rodrigo Zalazar,Spieler,NA,B
+gel11,Marius Buelter,Spieler,NA,B
+gel13,Alexander Schwolow,Spieler,NA,D
+gel15,Timothee Kolodziejczak,Spieler,NA,C
+gel18,Jere Uronen,Spieler,NA,B
+gel19,Ken Karaman,Spieler,NA,B
+gel20,Tim Skarke,Spieler,NA,A
+gel21,Niklas Tauer,Spieler,NA,A
+gel23,Mehmet Aydin,Spieler,NA,B
+gel24,Dominick Drexler,Spieler,NA,B
+gel25,Moritz Jenz,Spieler,NA,B
+gel26,Michael Frey,Spieler,NA,C
+gel27,Cedric Brunner,Spieler,NA,B
+gel29,Tobias Mohr,Spieler,NA,A
+gel30,Alex Kral,Spieler,NA,D
+gel33,Eder Balanta,Spieler,NA,C
+gel34,Michael Langer,Spieler,NA,A
+gel35,Marcin Kaminski,Spieler,NA,B
+gel37,Andreas Ivan,Spieler,NA,A
+gel38,Siochiro Kozuki,Spieler,NA,A
+gel40,Sebastian Polter,Spieler,NA,A
+gel41,Henning Matriciani,Spieler,NA,A
+bl,Bundesliga,Liga,GER,NA
+vfb,VfB Stuttgart,Verein,GER,NA
+boc,VfL Bochum,Verein,GER,NA
+gel,FC Schalke 04,Verein,GER,NA
+svw,SV Werder Bremen,Verein,GER,NA
+bsc,Hertha BSC Berlin,Verein,GER,NA
+koe,1. FC Koeln,Verein,GER,NA
+fca,FC Augsburg,Verein,GER,NA
+fsv,1. FSV Mainz 05,Verein,GER,NA
+fcu,1. FC Union Berlin,Verein,GER,NA
+tsg,TSG 1899 Hoffenheim,Verein,GER,NA
+scf,SC Freiburg,Verein,GER,NA
+wob,VfL Wolfsburg,Verein,GER,NA
+bmg,Borussia Moenchengladbach,Verein,GER,NA
+sge,SG Eintracht Frankfurt,Verein,GER,NA
+lev,Bayer 04 Leverkusen,Verein,GER,NA
+rbl,Red Bull Leipzig,Verein,GER,NA
+bvb,Borussia Dortmund,Verein,GER,NA
+fcb,FC Bayern Muenchen,Verein,GER,NA
+fcbj,FC Bayern Jugend,Verein,GER,NA
+scfj,SC Freiburg Jugend,Verein,GER,NA
+rblj,Red Bull Leipzig Jugend,Verein,GER,NA
+sgej,Eintracht Frankfurt Jugend,Verein,GER,NA
+fcuj,Union Berlin Jugend,Verein,GER,NA
+bvbj,Borussia Dortmund Jugend,Verein,GER,NA
+wobj,VfL Wofsburg Jugend,Verein,GER,NA
+bmgj,Moenchengladbach Jugend,Verein,GER,NA
+svwj,SV Werder Bremen Jugend,Verein,GER,NA
+fsvj,FSV Mainz 05 Jugend,Verein,GER,NA
+tsgj,TSG 1899 Hoffenheim Jugend,Verein,GER,NA
+levj,Bayer 04 Leverkusen Jugend,Verein,GER,NA
+koej,1. FC Koeln Jugend,Verein,GER,NA
+fcaj,FC Augsburg Jugend,Verein,GER,NA
+bscj,Hertha BSC Berlin Jugend,Verein,GER,NA
+vfbj,VfB Stuttgart Jugend,Verein,GER,NA
+bocj,VfL Bochum Jugend,Verein,GER,NA
+gelj,FC Schalke 04 Jugend,Verein,GER,NA
+han,Hannover 96,Verein,GER,NA
+shb,Shonan Bellmare,Verein,JAP,NA
+hsv,Hamburger SV,Verein,GER,NA
+smy,Apollon Smyrnis,Verein,GRE,NA
+psg,Paris St Germain,Verein,FRA,NA
+asm,AS Monaco,Verein,FRA,NA
+stl,Stade Laval,Verein,FRA,NA
+spo,Sporting Lissabon,Verein,POR,NA
+pfc,Paris FC,Verein,FRA,NA
+stk,SV Stuttgarter Kickers,Verein,GER,NA
+iwa,Jubilo Iwata,Verein,JAP,NA
+rwo,Rot Weiß Oberhausen,Verein,GER,NA
+zag,Dinamo Zagreb,Verein,CRO,NA
+cco,Central Coast,Verein,AUS,NA
+kop,FC Kopenhagen,Verein,DEN,NA
+fen,Fenerbahce Istanbul,Verein,TUR,NA
+prt,FC Porto,Verein,POR,NA
+vafc,Valenciennes FC,Verein,FRA,NA
+aja,Ajax Amsterdam,Verein,NED,NA
+lil,LOSC Lille,Verein,FRA,NA
+ars,Arsenal London,Verein,ENG,NA
+foot,Generation Foot,Verein,SEN,NA
+vanw,Vancouver Whitecaps,Verein,CAN,NA
+atm,Atletico Madrid,Verein,ESP,NA
+met,FC Metz,Verein,FRA,NA
+ren,Stade Rennes,Verein,FRA,NA
+bar,FC Barcelona,Verein,ESP,NA
+nyfc,New York City FC,Verein,USA,NA
+aux,AJ Auxerre,Verein,FRA,NA
+gcz,Grashoppers Zuerich,Verein,SUI,NA
+len,RC Lens,Verein,FRA,NA
+rwa,Rot Weiss Ahlen,Verein,GER,NA
+caen,SM Caen,Verein,FRA,NA
+mu60,1860 Muenchen,Verein,GER,NA
+niz,OGC Nizza,Verein,FRA,NA
+bir,Birmingham City,Verein,ENG,NA
+rev,RE Virton,Verein,BEL,NA
+uha,SpVgg Unterhaching,Verein,GER,NA
+vfra,VfR Aalen,Verein,GER,NA
+mtk,MTK Budapest,Verein,HUN,NA
+stra,Racing Strassbourg,Verein,FRA,NA
+fck,1. FC Kaiserslautern,Verein,GER,NA
+bama,JMG Academy Bamako,Verein,MAL,NA
+lyn,Lyngby BK,Verein,DEN,NA
+sun,GIF Sundsvall,Verein,SWE,NA
+hoed,IL Hoedd,Verein,NOR,NA
+rbs,Red Bull Salzburg,Verein,AUT,NA
+fur,Spvgg Greuther Fuerth,Verein,GER,NA
+tps,Turun Palloseura,Verein,FIN,NA
+ind,Independiente del Valle,Verein,ECU,NA
+asec,ASEC Mimosas,Verein,CIV,NA
+sep,Sepaphan FC,Verein,IRN,NA
+manu,Manchester United,Verein,ENG,NA
+rivp,River Plate,Verein,ARG,NA
+fcno,FC Nordsjelland,Verein,DEN,NA
+manc,Manchester City,Verein,ENG,NA
+ebs,Eintracht Braunschweig,Verein,GER,NA
+tor,Torpedo Moskau,Verein,RUS,NA
+leix,Leixoes SC,Verein,POR,NA
+spra,Sparta Prag,Verein,CZE,NA
+cfc,Chelsea London FC,Verein,ENG,NA
+brue,FC Bruegge,Verein,BEL,NA
+cob,Cobreloa,Verein,CHI,NA
+tou,FC Toulouse,Verein,FRA,NA
+hee,SC Heerenveen,Verein,NED,NA
+bro,Broendby IF,Verein,DEN,NA
+saop,Sao Paulo FC,Verein,BRA,NA
+heid,FC Heidenheim,Verein,GER,NA
+off,Kickers Offenbach,Verein,GER,NA
+cal,Deportivo Cali,Verein,COL,NA
+fhs,Fujieda Highschool,Verein,JAP,NA
+cac,CA Colon,Verein,ARG,NA
+ben,Benfica Lissabon,Verein,POR,NA
+rij,HNK Rijeka,Verein,CRO,NA
+spli,RNK Split,Verein,CRO,NA
+fcz,FC Zuerich,Verein,SUI,NA
+nan,FC Nantes,Verein,FRA,NA
+hhs,Higashiyama Highschool,Verein,JAP,NA
+ol,Olympique Lyon,Verein,FRA,NA
+pac,Paradou AC,Verein,ALG,NA
+bas,FC Basel,Verein,SUI,NA
+kaw,Kawasaki Frontale,Verein,JAP,NA
+soc,FC Sochaux,Verein,FRA,NA
+ksc,Karlsruher SC,Verein,GER,NA
+wad,Wadi Degla,Verein,EGY,NA
+awie,Austria Wien,Verein,AUT,NA
+dcu,D.C. United,Verein,USA,NA
+lech,Lech Posen,Verein,POL,NA
+asse,AS Saint Etienne,Verein,FRA,NA
+maff,Malmoe FF,Verein,SWE,NA
+krc,KRC Genk,Verein,BEL,NA
+and,RSC Anderlecht,Verein,BEL,NA
+vol,FC Volendam,Verein,NED,NA
+atpr,Athletico Paranese,Verein,BRA,NA
+twl,TWL Elektra,Verein,AUT,NA
+svka,SV Kapfenberg,Verein,AUT,NA
+gamb,Gamba Osaka,Verein,JAP,NA
+pus,Puskas AFC,Verein,HUN,NA
+aaa,Alemannia Aachen,Verein,GER,NA
+burg,SV Wacker Burghausen,Verein,GER,NA
+rma,Real Madrid,Verein,ESP,NA
+blum,Blumenthaler SV,Verein,GER,NA
+have,TSV Havelse,Verein,GER,NA
+bonn,Bonner SC,Verein,GER,NA
+czj,FC Carl Zeiss Jena,Verein,GER,NA
+stp,FC St Pauli,Verein,GER,NA
+silk,Silkeborg IF,Verein,DEN,NA
+gala,Galatasaray Istanbul,Verein,TUR,NA
+for,Fortuna Duesseldorf,Verein,GER,NA
+macc,Maccabi Tel Aviv,Verein,ISR,NA
+fcsi,FC Sion,Verein,SUI,NA
+stab,Stabaek IF,Verein,NOR,NA
+aar,FC Aarau,Verein,SUI,NA
+graa,De Graafschap Doetinchem,Verein,NED,NA
+espb,Espanyol Barcelo,Verein,ESP,NA
+osna,VfL Osnabrueck,Verein,GER,NA
+kun,Korea University,Verein,KOR,NA
+cib,Cibalia,Verein,CRO,NA
+kral,Hradec Kralove,Verein,CZE,NA
+luz,FC Luzern,Verein,SUI,NA
+inte,Internacional Porto Alegre,Verein,BRA,NA
+twen,Twente Enschede,Verein,NED,NA
+ols,Tempo 25 Olsztyn,Verein,POL,NA
+whu,West Ham United,Verein,ENG,NA
+eber,TSV Ebersberg,Verein,GER,NA
+hori,ASK Horitschon,Verein,AUT,NA
+rwer,Rot Weiss Erfurt,Verein,GER,NA
+reim,Stade Reims,Verein,FRA,NA
+hors,AC Horsens,Verein,DEN,NA
+nied,SuS Niederschelden,Verein,GER,NA
+hro,Hansa Rostock,Verein,GER,NA
+mont,Montpellier HSC,Verein,FRA,NA
+beif,Benlose IF,Verein,DEN,NA
+zapr,Inter Zapresic,Verein,CRO,NA
+rwie,Rapid Wien,Verein,AUT,NA
+ange,Angelholm,Verein,SWE,NA
+graz,Sturm Graz,Verein,AUT,NA
+auer,SV Auersmacher,Verein,GER,NA
+atro,Atromitos Athen,Verein,GRE,NA
+suco,Supreme Court FC,Verein,NIG,NA
+obk,Odense BK,Verein,DEN,NA
+dubn,FK Dubnica,Verein,SVK,NA
+feye,Feyenoord Rotterdam,Verein,NED,NA
+eve,FC Everton,Verein,ENG,NA
+part,Partizan Belgrad,Verein,SRB,NA
+duis,MSV Duisburg,Verein,GER,NA
+ostr,Banik Ostrau,Verein,CZE,NA
+brab,Brabrand IF,Verein,DEN,NA
+cott,Energie Cottbus,Verein,GER,NA
+tot,Tottenham Hotspurs,Verein,ENG,NA
+der,Derby County,Verein,ENG,NA
+slpr,Slavia Prag,Verein,CZE,NA
+sang,Kyoto Sanga,Verein,JAP,NA
+lipp,SV Lippstadt,Verein,GER,NA
+alk,AZ Alkmaar,Verein,NED,NA
+stpo,AKA St Poelten,Verein,AUT,NA
+nag,Nagoya Crampus,Verein,JAP,NA
+zwo,PEC Zwolle,Verein,NED,NA
+mala,FC Malaga ,Verein,ESP,NA
+muns,Preussen Muenster,Verein,GER,NA
+vik,Viking FK,Verein,NOR,NA
+habi,VfB Habinghorst,Verein,GER,NA
+hern,Westfalia Herne,Verein,GER,NA
+olpi,Olympiakos Piraus,Verein,GRE,NA
+kirc,VfL Kirchheim,Verein,GER,NA
+anne,Patroge Saint Anne,Verein,COG,NA
+mli,AD Municipal Liberia,Verein,CRI,NA
+lust,Austria Lustenau,Verein,AUT,NA
+cuk,FK Cukaricki,Verein,SRB,NA
+zaw,Zawisza Bydgoszcz,Verein,POL,NA
+yok,Yokkaichi Highschool,Verein,JAP,NA
+paok,PAOK Saloniki,Verein,GRE,NA
+shak,Shaktar Donezk,Verein,UKR,NA
+ura,Urawa Reds,Verein,JAP,NA
+ful,FC Fulham,Verein,ENG,NA
+ybb,Young Boys Bern,Verein,SUI,NA
+nkd,NK Dubrava,Verein,CRO,NA
+asco,Angers SCO,Verein,FRA,NA
+goz,Gozzano,Verein,ITA,NA
+naci,Nacional,Verein,URU,NA
+fcn,1 FC Nuernberg,Verein,GER,NA
