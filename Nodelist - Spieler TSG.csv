@@ -1,0 +1,52 @@
+ID,Name,Typ,Verein,Jugendverein,Land,MW
+tsg1,Oliver Baumann,1,tsg,scfj,NA,D
+tsg3,Pavel Kaderabek,1,tsg,spra,NA,F
+tsg4,Ermin Bicakcic,1,tsg,vfbj,NA,B
+tsg5,Ozan Kabak,1,tsg,gala,NA,I
+tsg6,Grischa Proemel,1,tsg,tsgj,NA,C
+tsg7,Jacob Bruun Larsen,1,tsg,bvbj,NA,F
+tsg8,Dennis Geiger,1,tsg,tsgj,NA,E
+tsg9,Ihlas Bebou,1,tsg,for,NA,F
+tsg10,Munas Dabbour,1,tsg,macc,NA,E
+tsg11,Angelino,1,tsg,manc,NA,I
+tsg13,Angelo Stiller,1,tsg,fcbj,NA,C
+tsg14,Christoph Baumgartner,1,tsg,tsgj,NA,G
+tsg16,Sebastian Rudy,1,tsg,vfbj,NA,E
+tsg17,Thomas Delaney,1,tsg,kop,NA,H
+tsg19,Kasper Dolberg,1,tsg,aja,NA,G
+tsg20,Finn Ole Becker,1,tsg,stp,NA,A
+tsg22,Kevin Vogt,1,tsg,bocj,NA,F
+tsg23,John Anthony Brooks,1,tsg,bscj,NA,E
+tsg25,Kevin Akpoguma,1,tsg,ksc,NA,E
+tsg26,Eduardo Quaresma,1,tsg,spo,NA,C
+tsg27,Andrej Kramaric,1,tsg,zag,NA,I
+tsg29,Robert Skov,1,tsg,silk,NA,E
+tsg34,Stanley Nsoki,1,tsg,psg,NA,E
+tsg35,Muhammed Damar,1,tsg,sgej,NA,A
+tsg39,Tom Bischof,1,tsg,tsgj,NA,A
+tsg40,Umut Tohumcu,1,tsg,tsgj,NA,A
+tsg44,Fisnik Asllani,1,tsg,fcuj,NA,A
+tsg,TSG Hoffenheim,2,NA,NA,GER,NA
+bl,Bundesliga,3,NA,NA,NA,NA
+scfj,SC Freiburg Jugend,2,NA,NA,GER,NA
+spra,Sparta Prag,2,NA,NA,CZE,NA
+vfbj,VFB Stuttgart Jugend,2,NA,NA,GER,NA
+gala,Galatasaray Istanbul,2,NA,NA,TUR,NA
+tsgj,TSG Hoffenheim Jugend,2,NA,NA,GER,NA
+bvbj,Borussia Dortmund,2,NA,NA,GER,NA
+for,Fortuna Duesseldorf,2,NA,NA,GER,NA
+macc,Maccabi Tel Aviv,2,NA,NA,ISR,NA
+manc,Manchester City,2,NA,NA,ENG,NA
+fcbj,FC Bayern Jugend,2,NA,NA,GER,NA
+kop,FC Kopenhagen,2,NA,NA,DEN,NA
+aja,Ajax Amsterdam,2,NA,NA,NED,NA
+stp,FC St Pauli,2,NA,NA,GER,NA
+bocj,VFL Bochum Jugend,2,NA,NA,GER,NA
+bscj,Hertha BSC Berlin Jugend,2,NA,NA,GER,NA
+ksc,Karlsruher SC,2,NA,NA,GER,NA
+spo,Sporting Lissabon,2,NA,NA,POR,NA
+zag,Dinamo Zagreb,2,NA,NA,CRO,NA
+silk,Silkeborg IF,2,NA,NA,SWE,NA
+psg,Paris St. Germain,2,NA,NA,FRA,NA
+sgej,Eintracht Frankfurt Jugend,2,NA,NA,GER,NA
+fcuj,Union Berlin Jugend,2,NA,NA,GER,NA
